@@ -4,7 +4,6 @@ body {
     margin-right: 20px;
     margin-right: 20px;
     border-width: 10px;
-    
 }
 h1, h2 {
     color: orange;
@@ -14,4 +13,13 @@ p, ul, ol {
     color:brown;
     font-family: sans-serif;
     font-weight: 200;  
+}
+#id_value {
+    color: burlywood;
+}
+.class_one{
+    color: red;
+}
+.class_two{
+    font-weight: bold;
 }
