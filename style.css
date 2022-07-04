@@ -7,12 +7,17 @@ h1, h2 {
 }
 p, ul, ol {
     color:brown;
-    font-family: sans-serif;
-    font-weight: 200;  
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    font-weight: 200; 
+   
 }
 #border_style {
     margin: auto;
     width: 50%;
     border: 3px;
     padding: 10px;
+}
+img {
+    height: auto;
+    width: 300px;
 }
